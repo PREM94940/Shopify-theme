@@ -1,1 +1,380 @@
-{"sections":{"slideshow_fzVcF6":{"type":"slideshow","blocks":{"slide_yJgmit":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/1.png","image_overlay_opacity":0,"heading":"","heading_size":"h2","subheading":"","button_label":"","link":"shopify:\/\/collections\/shravanam-festival-collections","button_style_secondary":true,"show_text_box":false,"box_align":"bottom-center","text_alignment":"center","text_alignment_mobile":"center","color_scheme":""}},"slide_UrYjz6":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/White_Modern_Aesthetic_Photo_Collage_Banner.png","image_overlay_opacity":0,"heading":"","heading_size":"h2","subheading":"","button_label":"","link":"shopify:\/\/collections\/shravanam-festival-collections","button_style_secondary":true,"show_text_box":false,"box_align":"bottom-center","text_alignment":"center","text_alignment_mobile":"center","color_scheme":""}},"slide_4Ci84z":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/6.png","image_overlay_opacity":0,"heading":"","heading_size":"h2","subheading":"","button_label":"","link":"shopify:\/\/collections\/shravanam-festival-collections","button_style_secondary":true,"show_text_box":false,"box_align":"bottom-center","text_alignment":"center","text_alignment_mobile":"center","color_scheme":""}}},"block_order":["slide_yJgmit","slide_UrYjz6","slide_4Ci84z"],"name":"t:sections.slideshow.presets.name","settings":{"layout":"full_bleed","slide_height":"adapt_image","slider_visual":"counter","auto_rotate":true,"change_slides_speed":5,"image_behavior":"none","show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"1753039544a68dda3d":{"type":"_blocks","blocks":{"ai_gen_block_1e7ed67_CEt8ci":{"type":"ai_gen_block_1e7ed67","name":"Collection Grid","settings":{"featured_collection":"custom-made-ready-to-wear","heading":"Featured Products","description":"<p>Discover our curated selection of premium products<\/p>","items_to_show":8,"show_product_info":true,"columns_desktop":4,"columns_tablet":3,"columns_mobile":"2","grid_gap":20,"image_aspect_ratio":"1\/1","text_alignment":"center","show_view_all":true,"button_text":"View All Products","text_color":"#000000","card_background":"#ffffff","card_text_color":"#000000","button_color":"#000000","button_text_color":"#ffffff","button_hover_color":"#333333","heading_size":32,"description_size":16,"card_title_size":16,"card_description_size":14,"section_padding":40,"card_padding":16,"card_border_radius":8,"button_border_radius":6},"blocks":{}},"ai_gen_block_1e7ed67_jEpjYy":{"type":"ai_gen_block_1e7ed67","settings":{"featured_collection":"traditional-half-sarees","heading":"Half Saree Collections","description":"","items_to_show":18,"show_product_info":true,"columns_desktop":6,"columns_tablet":3,"columns_mobile":"2","grid_gap":20,"image_aspect_ratio":"3\/4","text_alignment":"center","show_view_all":true,"button_text":"View All Products","text_color":"#000000","card_background":"#ffffff","card_text_color":"#000000","button_color":"#000000","button_text_color":"#ffffff","button_hover_color":"#333333","heading_size":32,"description_size":16,"card_title_size":16,"card_description_size":14,"section_padding":40,"card_padding":16,"card_border_radius":8,"button_border_radius":6},"blocks":{}},"ai_gen_block_1e7ed67_MLcMMk":{"type":"ai_gen_block_1e7ed67","settings":{"featured_collection":"premium-half-sarees","heading":"Half Saree Collections","description":"","items_to_show":18,"show_product_info":true,"columns_desktop":6,"columns_tablet":3,"columns_mobile":"2","grid_gap":20,"image_aspect_ratio":"3\/4","text_alignment":"center","show_view_all":true,"button_text":"View All Products","text_color":"#000000","card_background":"#ffffff","card_text_color":"#000000","button_color":"#000000","button_text_color":"#ffffff","button_hover_color":"#333333","heading_size":32,"description_size":16,"card_title_size":16,"card_description_size":14,"section_padding":40,"card_padding":16,"card_border_radius":8,"button_border_radius":6},"blocks":{}}},"block_order":["ai_gen_block_1e7ed67_CEt8ci","ai_gen_block_1e7ed67_jEpjYy","ai_gen_block_1e7ed67_MLcMMk"],"settings":{}},"multicolumn_aez8M9":{"type":"multicolumn","blocks":{"column_W9Lfnm":{"type":"column","settings":{"title":"Premium Quality Guaranteed","text":"<p>Our clothing is crafted with precision using high-quality materials, ensuring durability and elegance.<\/p>","link_label":"","link":""}},"column_nW489R":{"type":"column","settings":{"title":"Secure & Safe Checkout","text":"<p>Your payment is protected with advanced encryption, ensuring a smooth and risk-free shopping experience.<\/p>","link_label":"","link":""}},"column_JgBLLy":{"type":"column","settings":{"title":"Fast & Reliable Shipping","text":"<p>We ensure quick processing and timely delivery so you receive your order without delays.<\/p>","link_label":"","link":""}},"column_wtXp7B":{"type":"column","settings":{"title":"Satisfaction Guaranteed","text":"<p>Our fabrics are carefully chosen for their superior quality, intricate designs, and lasting comfort, ensuring you love every purchase.<\/p>","link_label":"","link":""}}},"block_order":["column_W9Lfnm","column_nW489R","column_JgBLLy","column_wtXp7B"],"settings":{"title":"Why Choose Deeprastore ?","heading_size":"h2","image_width":"third","image_ratio":"square","button_label":"","button_link":"","columns_desktop":4,"column_alignment":"left","background_style":"primary","color_scheme":"","columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"17538971778528bcc8":{"type":"apps","blocks":{"google_youtube_automated_discounts_price_bzwanm":{"type":"shopify:\/\/apps\/google-youtube\/blocks\/automated_discounts_price\/14ec7bd0-ac77-49a9-9417-90752398bdff","settings":{}}},"block_order":["google_youtube_automated_discounts_price_bzwanm"],"settings":{"include_margins":true}},"slideshow_DGr6TE":{"type":"slideshow","blocks":{"slide_EGnxB9":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Brown_Colorful_Travel_Photo_Collage.png","image_overlay_opacity":0,"heading":"","heading_size":"h2","subheading":"","button_label":"","link":"shopify:\/\/collections\/shravanam-festival-collections","button_style_secondary":true,"show_text_box":false,"box_align":"bottom-center","text_alignment":"center","text_alignment_mobile":"center","color_scheme":""}},"slide_XrFHb6":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Brown_Colorful_Travel_Photo_Collage_1.png","image_overlay_opacity":0,"heading":"","heading_size":"h2","subheading":"","button_label":"","link":"shopify:\/\/collections\/shravanam-festival-collections","button_style_secondary":true,"show_text_box":false,"box_align":"bottom-center","text_alignment":"center","text_alignment_mobile":"center","color_scheme":""}},"slide_gJQrwh":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Green_Simple_Furniture_Home_Photo_Collage_1.png","image_overlay_opacity":0,"heading":"","heading_size":"h2","subheading":"","button_label":"","link":"shopify:\/\/collections\/shravanam-festival-collections","button_style_secondary":true,"show_text_box":false,"box_align":"bottom-center","text_alignment":"center","text_alignment_mobile":"center","color_scheme":""}}},"block_order":["slide_EGnxB9","slide_XrFHb6","slide_gJQrwh"],"name":"t:sections.slideshow.presets.name","settings":{"layout":"full_bleed","slide_height":"adapt_image","slider_visual":"counter","auto_rotate":true,"change_slides_speed":5,"image_behavior":"none","show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"wishit_snowpile_ex3GkR":{"type":"wishit-snowpile","name":"WishIt Snow Pile","settings":{"richtext":"Festival Sales Live","at_footer":false,"padding_top":0,"padding_bottom":0}},"177106659204e9f6f9":{"type":"_blocks","settings":{}}},"order":["slideshow_fzVcF6","1753039544a68dda3d","multicolumn_aez8M9","17538971778528bcc8","slideshow_DGr6TE","wishit_snowpile_ex3GkR","177106659204e9f6f9"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_fzVcF6": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_yJgmit": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/shravanam-festival-collections",
+            "button_style_secondary": true,
+            "show_text_box": false,
+            "box_align": "bottom-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        },
+        "slide_UrYjz6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/White_Modern_Aesthetic_Photo_Collage_Banner.png",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/shravanam-festival-collections",
+            "button_style_secondary": true,
+            "show_text_box": false,
+            "box_align": "bottom-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        },
+        "slide_4Ci84z": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/6.png",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/shravanam-festival-collections",
+            "button_style_secondary": true,
+            "show_text_box": false,
+            "box_align": "bottom-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_yJgmit",
+        "slide_UrYjz6",
+        "slide_4Ci84z"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "1753039544a68dda3d": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_1e7ed67_CEt8ci": {
+          "type": "ai_gen_block_1e7ed67",
+          "name": "Collection Grid",
+          "settings": {
+            "featured_collection": "custom-made-ready-to-wear",
+            "heading": "Featured Products",
+            "description": "<p>Discover our curated selection of premium products</p>",
+            "items_to_show": 8,
+            "show_product_info": true,
+            "columns_desktop": 4,
+            "columns_tablet": 3,
+            "columns_mobile": "2",
+            "grid_gap": 20,
+            "image_aspect_ratio": "1/1",
+            "text_alignment": "center",
+            "show_view_all": true,
+            "button_text": "View All Products",
+            "text_color": "#000000",
+            "card_background": "#ffffff",
+            "card_text_color": "#000000",
+            "button_color": "#000000",
+            "button_text_color": "#ffffff",
+            "button_hover_color": "#333333",
+            "heading_size": 32,
+            "description_size": 16,
+            "card_title_size": 16,
+            "card_description_size": 14,
+            "section_padding": 40,
+            "card_padding": 16,
+            "card_border_radius": 8,
+            "button_border_radius": 6
+          },
+          "blocks": {}
+        },
+        "ai_gen_block_1e7ed67_jEpjYy": {
+          "type": "ai_gen_block_1e7ed67",
+          "settings": {
+            "featured_collection": "traditional-half-sarees",
+            "heading": "Half Saree Collections",
+            "description": "",
+            "items_to_show": 18,
+            "show_product_info": true,
+            "columns_desktop": 6,
+            "columns_tablet": 3,
+            "columns_mobile": "2",
+            "grid_gap": 20,
+            "image_aspect_ratio": "3/4",
+            "text_alignment": "center",
+            "show_view_all": true,
+            "button_text": "View All Products",
+            "text_color": "#000000",
+            "card_background": "#ffffff",
+            "card_text_color": "#000000",
+            "button_color": "#000000",
+            "button_text_color": "#ffffff",
+            "button_hover_color": "#333333",
+            "heading_size": 32,
+            "description_size": 16,
+            "card_title_size": 16,
+            "card_description_size": 14,
+            "section_padding": 40,
+            "card_padding": 16,
+            "card_border_radius": 8,
+            "button_border_radius": 6
+          },
+          "blocks": {}
+        },
+        "ai_gen_block_1e7ed67_MLcMMk": {
+          "type": "ai_gen_block_1e7ed67",
+          "settings": {
+            "featured_collection": "premium-half-sarees",
+            "heading": "Half Saree Collections",
+            "description": "",
+            "items_to_show": 18,
+            "show_product_info": true,
+            "columns_desktop": 6,
+            "columns_tablet": 3,
+            "columns_mobile": "2",
+            "grid_gap": 20,
+            "image_aspect_ratio": "3/4",
+            "text_alignment": "center",
+            "show_view_all": true,
+            "button_text": "View All Products",
+            "text_color": "#000000",
+            "card_background": "#ffffff",
+            "card_text_color": "#000000",
+            "button_color": "#000000",
+            "button_text_color": "#ffffff",
+            "button_hover_color": "#333333",
+            "heading_size": 32,
+            "description_size": 16,
+            "card_title_size": 16,
+            "card_description_size": 14,
+            "section_padding": 40,
+            "card_padding": 16,
+            "card_border_radius": 8,
+            "button_border_radius": 6
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_1e7ed67_CEt8ci",
+        "ai_gen_block_1e7ed67_jEpjYy",
+        "ai_gen_block_1e7ed67_MLcMMk"
+      ],
+      "settings": {}
+    },
+    "multicolumn_aez8M9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_W9Lfnm": {
+          "type": "column",
+          "settings": {
+            "title": "Premium Quality Guaranteed",
+            "text": "<p>Our clothing is crafted with precision using high-quality materials, ensuring durability and elegance.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nW489R": {
+          "type": "column",
+          "settings": {
+            "title": "Secure & Safe Checkout",
+            "text": "<p>Your payment is protected with advanced encryption, ensuring a smooth and risk-free shopping experience.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JgBLLy": {
+          "type": "column",
+          "settings": {
+            "title": "Fast & Reliable Shipping",
+            "text": "<p>We ensure quick processing and timely delivery so you receive your order without delays.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wtXp7B": {
+          "type": "column",
+          "settings": {
+            "title": "Satisfaction Guaranteed",
+            "text": "<p>Our fabrics are carefully chosen for their superior quality, intricate designs, and lasting comfort, ensuring you love every purchase.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_W9Lfnm",
+        "column_nW489R",
+        "column_JgBLLy",
+        "column_wtXp7B"
+      ],
+      "settings": {
+        "title": "Why Choose Deeprastore ?",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17538971778528bcc8": {
+      "type": "apps",
+      "blocks": {
+        "google_youtube_automated_discounts_price_bzwanm": {
+          "type": "shopify://apps/google-youtube/blocks/automated_discounts_price/14ec7bd0-ac77-49a9-9417-90752398bdff",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "google_youtube_automated_discounts_price_bzwanm"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "slideshow_DGr6TE": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_EGnxB9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Brown_Colorful_Travel_Photo_Collage.png",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/shravanam-festival-collections",
+            "button_style_secondary": true,
+            "show_text_box": false,
+            "box_align": "bottom-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        },
+        "slide_XrFHb6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Brown_Colorful_Travel_Photo_Collage_1.png",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/shravanam-festival-collections",
+            "button_style_secondary": true,
+            "show_text_box": false,
+            "box_align": "bottom-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        },
+        "slide_gJQrwh": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Green_Simple_Furniture_Home_Photo_Collage_1.png",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/shravanam-festival-collections",
+            "button_style_secondary": true,
+            "show_text_box": false,
+            "box_align": "bottom-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_EGnxB9",
+        "slide_XrFHb6",
+        "slide_gJQrwh"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "wishit_snowpile_ex3GkR": {
+      "type": "wishit-snowpile",
+      "name": "WishIt Snow Pile",
+      "settings": {
+        "richtext": "Festival Sales Live",
+        "at_footer": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "177106659204e9f6f9": {
+      "type": "_blocks",
+      "settings": {}
+    },
+    "1781046355e3f17d72": {
+      "type": "_blocks",
+      "settings": {}
+    }
+  },
+  "order": [
+    "slideshow_fzVcF6",
+    "1753039544a68dda3d",
+    "multicolumn_aez8M9",
+    "17538971778528bcc8",
+    "slideshow_DGr6TE",
+    "wishit_snowpile_ex3GkR",
+    "177106659204e9f6f9",
+    "1781046355e3f17d72"
+  ]
+}
